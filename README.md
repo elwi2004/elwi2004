@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heya 👋
 
 <!--
 **elwi2004/elwi2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Hejhej!
 
 Det här är det GitHub-konto jag kommer att använda under min tid som student på Mittuniversitetets webbutvecklingsprogram. 🌱 
 
