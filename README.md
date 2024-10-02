@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hejhej!
+
+Det här är det GitHub-konto jag kommer att använda under min tid som student på Mittuniversitetets webbutvecklingsprogram. 🌱 
+
+*E-post: elwi2004@student.miun.se*
+**//Ella Wiles :-)**
